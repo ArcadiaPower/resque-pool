@@ -9,6 +9,14 @@ Resque pool is a simple library for managing a pool of
 manages your workers for you, starting up the appropriate number of workers for
 each worker type.
 
+## Fork Notes
+
+We forked the repo to fix this issue: https://github.com/nevans/resque-pool/issues/162
+
+There is a linked PR in that issue with the fix.
+
+Master was reset to the latest release (0.6.0), and then the fix was merged with a bump to 0.6.1
+
 Benefits
 ---------
 
