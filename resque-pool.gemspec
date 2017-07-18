@@ -3,9 +3,9 @@ require "./lib/resque/pool/version"
 Gem::Specification.new do |s|
   s.name        = "resque-pool"
   s.version     = Resque::Pool::VERSION
-  s.authors     = ["nicholas a. evans",]
-  s.email       = ["nick@ekenosen.net"]
-  s.homepage    = "http://github.com/nevans/resque-pool"
+  s.authors     = ["Arcadia Power"]
+  s.email       = ["engineering@arcadiapower.com"]
+  s.homepage    = "http://github.com/ArcadiaPower/resque-pool"
   s.summary     = "quickly and easily fork a pool of resque workers"
   s.license     = 'MIT'
   s.description = <<-EOF
