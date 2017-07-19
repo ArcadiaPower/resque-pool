@@ -17,6 +17,8 @@ There is a linked PR in that issue with the fix.
 
 Master was reset to the latest release (0.6.0), and then the fix was merged with a bump to 0.6.1
 
+Note: the git history is corrupted in this repo (`git fsck`) with a zeroPaddedFilemode issue.
+
 Benefits
 ---------
 

@@ -21,7 +21,7 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'rspec', '~> 2.10'
   s.add_development_dependency 'cucumber', '~> 1.2'
   s.add_development_dependency 'aruba', '~> 0.4.11'
-  s.add_development_dependency 'bundler'
+  s.add_development_dependency 'bundler', '~> 1.0'
   s.add_development_dependency 'ronn'
 
   s.files         = %w( README.md Rakefile LICENSE.txt Changelog.md )
